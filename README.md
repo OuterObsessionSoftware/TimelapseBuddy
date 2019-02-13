@@ -39,6 +39,7 @@ Make sure the "Sequence Layers" checkbox is ticked. Alternatively you can do thi
 The length of the time lapse is controlled by the duration of each image and the frame rate of the composition.
 
 You can always use time stretch effect to fine tune the time lapse later.
+
 --------------------------------------
 If you're experiencing any problems then you can open a new issue under the [issue tab.](../../issues)
 
